@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "822816936768",
+    "project_id": "visual-book-ba653",
+    "storage_bucket": "visual-book-ba653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822816936768:android:350e185edbf4d4c9e620a5",
+        "android_client_info": {
+          "package_name": "com.example.visual_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822816936768-8kte8k2homhddtfrq3ksi96nqndhvdim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdmd3LZ3W00vF1bA05ailzZ5bcCMfw0wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822816936768-8kte8k2homhddtfrq3ksi96nqndhvdim.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "822816936768-p0g67is6krqaevpiq6go1rtht46rn7pv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.visualBook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
